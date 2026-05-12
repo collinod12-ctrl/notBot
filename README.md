@@ -88,13 +88,21 @@ Note: due to recent changes to YouTube's innerTube, many Discord bots are not ab
 Currently the features included in this bot are as follows:
 
  `/play`: Plays a single song from SoundCloud.
+
  `/play playlist`: Plays a playlist from SoundCloud.
+
  `/play album`: Plays an album from SoundCloud.
+
  `/server`: Provides information about the server.
+
  `/user`: Provides information about the user.
+
  `/ping`: Replies with Pong!
+
  `/exit`: Disconnects the bot from the voice channel.
+
  `/pause`: Pauses the current song.
+ 
  `/resume`: Resumes the paused song.
 
 
