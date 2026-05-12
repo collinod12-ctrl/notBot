@@ -21,7 +21,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url] //TODO ADD LICENSE
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -75,18 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![notBotGithub][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people who have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+With many Discord Music Bots being shut down recently, I felt compelled to create one of my own. Instead of inviting someone elses bot to your server, you can now have a Discord bot of your very own for you and your friend's personal use!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,7 +177,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 ## Contact
 
 Your Name - [@ciownu_rl](https://x.com/ciownu_rl) - collinod12@gmail.com
-
+LinkedIn - [Collin ODonnell](https://www.linkedin.com/in/collin-o-donnell-a18755266/)
 Project Link: [https://github.com/collinod12-ctrl/notBot](https://github.com/collinod12-ctrl/notBot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -197,8 +186,6 @@ Project Link: [https://github.com/collinod12-ctrl/notBot](https://github.com/col
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [othneildrew's Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [DiscordJS](https://discord.js.org/)
@@ -220,7 +207,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/badge/license-MIT-red
 [license-url]: https://github.com/collinod12-ctrl/notBot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/collin-o-donnell-a18755266/
 [notBotGithub]: https://ibb.co/zWGr9pQW
 [Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
 [Nodejs-url]: https://nodejs.org/en
