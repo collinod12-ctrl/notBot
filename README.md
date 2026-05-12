@@ -77,6 +77,26 @@
 
 With many Discord Music Bots being shut down recently, I felt compelled to create one of my own. Instead of inviting someone elses bot to your server, you can now have a Discord bot of your very own for you and your friend's personal use!
 
+Note: due to recent changes to YouTube's innerTube, many Discord bots are not able to scrape YouTube at all. This bot was also affected by these changes. As of writing this (5/12/2026) this bot exclusively works on SoundCloud.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## Features
+
+Currently the features included in this bot are as follows:
+    `/play`: Plays a single song from SoundCloud.
+    `/play playlist`: Plays a playlist from SoundCloud.
+    `/play album`: Plays an album from SoundCloud.
+    `/server`: Provides information about the server.
+    `/user`: Provides information about the user.
+    `/ping`: Replies with Pong!
+    `/exit`: Disconnects the bot from the voice channel.
+    `/pause`: Pauses the current song.
+    `/resume`: Resumes the paused song.
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
