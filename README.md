@@ -109,6 +109,7 @@ Create a Discord Bot through the [Discord Developer Portal](https://discord.com/
     Invite your new bot to the servers you wish to include (or "guild" as it's defined by in the developer portal) via the generated link.
 
 Enable Developer Mode in your Discord Client
+
     Go to 'User Settings'
     Navigate to 'Advanced'
     Toggle 'Developer Mode' on
