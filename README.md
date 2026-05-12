@@ -196,13 +196,13 @@ Project Link: [https://github.com/collinod12-ctrl/notBot](https://github.com/col
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/collinod12-ctrl/notBot.svg?style=for-the-badge
 [contributors-url]: https://github.com/collinod12-ctrl/notBot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/collinod12-ctrl/notBot.svg?style=for-the-badge
 [forks-url]: https://github.com/collinod12-ctrl/notBot/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/collinod12-ctrl/notBot.svg?style=for-the-badge
 [stars-url]: https://github.com/collinod12-ctrl/notBot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/collinod12-ctrl/notBot.svg?style=for-the-badge
 [issues-url]: https://github.com/collinod12-ctrl/notBot/issues
 [license-shield]: https://img.shields.io/badge/license-MIT-red
 [license-url]: https://github.com/collinod12-ctrl/notBot/blob/master/LICENSE.txt
