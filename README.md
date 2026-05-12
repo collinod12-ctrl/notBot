@@ -133,6 +133,14 @@ Enable Developer Mode in your Discord Client
     "guildIds": ["ENTER_TARGET_GUILD_ID"],
     "targetChannelIds": ["ENTER_TARGET_CHANNEL_ID"]
    ```
+   To find your token, navigate to the 'Bot' tab in your discord bot, and click 'Reset token'.
+
+    The clientId can be found in the 'General Information' tab as 'Application Id'.
+
+    To get the 'guildId', right-click on the server that the bot is in and click 'Copy Server Id' under 'Copy Server Info'
+
+    Get your 'channelId' by right-clicking the text-channel you would like to use for the commands for the bot. This is important because without it, the bot can send many notifications/pings and become annoying quickly. By creating a designated channel for the commands we are able to eliminate this problem before it begins by telling everyone to mute the bot command channel.
+    
 5. Run deploy-commands.js to register commands via Terminal
     ```sh
     node deploy-commands.js
@@ -144,13 +152,6 @@ Enable Developer Mode in your Discord Client
 
 It is recommended to run the bot via terminal in order to see more info such as errors.
 
-To find your token, navigate to the 'Bot' tab in your discord bot, and click 'Reset token'.
-
-The clientId can be found in the 'General Information' tab as 'Application Id'.
-
-To get the 'guildId', right-click on the server that the bot is in and click 'Copy Server Id' under 'Copy Server Info'
-
-Get your 'channelId' by right-clicking the text-channel you would like to use for the commands for the bot. This is important because without it, the bot can send many notifications/pings and become annoying quickly. By creating a designated channel for the commands we are able to eliminate this problem before it begins by telling everyone to mute the bot command channel.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
