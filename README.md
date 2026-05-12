@@ -162,8 +162,8 @@ Enable Developer Mode in your Discord Client
    ```js
     "token": "ENTER_DISCORD_BOT_TOKEN",
     "clientId": "ENTER_DISCORD_BOT_CLIENT_ID",
-    "guildIds": ["ENTER_TARGET_GUILD_ID"],
-    "targetChannelIds": ["ENTER_TARGET_CHANNEL_ID"]
+    "guildIds": ["ENTER_TARGET_GUILD_ID", "ENTER_TARGET_GUILD_ID"], //(This can go on for as many guilds as necessary)
+    "targetChannelIds": ["ENTER_TARGET_CHANNEL_ID", "ENTER_TARGET_CHANNEL_ID"] //(Each target channel ID from each server... can also go on for as many guilds & channels as necessary)
    ```
    To find your token, navigate to the 'Bot' tab in your discord bot, and click 'Reset token'.
 
