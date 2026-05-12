@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/collinod12-ctrl/notBot">
-    <img src="Logos/notBotGithub.png" alt="Logo" width="240" height="240">
+    <img src="Logos/notBotGithub.png" alt="Logo" width="480" height="480">
   </a>
 
   <h3 align="center">notBot the Discord Music Bot</h3>
