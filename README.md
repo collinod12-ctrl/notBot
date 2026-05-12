@@ -140,7 +140,7 @@ Enable Developer Mode in your Discord Client
     To get the 'guildId', right-click on the server that the bot is in and click 'Copy Server Id' under 'Copy Server Info'
 
     Get your 'channelId' by right-clicking the text-channel you would like to use for the commands for the bot. This is important because without it, the bot can send many notifications/pings and become annoying quickly. By creating a designated channel for the commands we are able to eliminate this problem before it begins by telling everyone to mute the bot command channel.
-    
+
 5. Run deploy-commands.js to register commands via Terminal
     ```sh
     node deploy-commands.js
@@ -169,7 +169,7 @@ Feel free to place your own suggestions in the issues section, as well.
 <!-- LICENSE -->
 ## License
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
