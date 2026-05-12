@@ -5,6 +5,7 @@ module.exports = {
     async execute(interaction) {
         await interaction.reply({
             content: `Here are the available commands:\n
+- \`/help\`: Displays this help message.
 - \`/play track\`: Plays a single song from SoundCloud.
 - \`/play playlist\`: Plays a playlist from SoundCloud.
 - \`/play album\`: Plays an album from SoundCloud.
