@@ -210,8 +210,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@ciownu_rl](https://x.com/ciownu_rl) - collinod12@gmail.com
+ciownu - [@ciownu_rl](https://x.com/ciownu_rl) - collinod12@gmail.com
+
 LinkedIn - [Collin ODonnell](https://www.linkedin.com/in/collin-o-donnell-a18755266/)
+
 Project Link: [https://github.com/collinod12-ctrl/notBot](https://github.com/collinod12-ctrl/notBot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
