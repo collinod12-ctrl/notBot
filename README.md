@@ -150,7 +150,7 @@ Enable Developer Mode in your Discord Client
 
 1. Clone (or download) the repo
    ```sh
-   git clone https://github.com/collinod12-ctrl/notBot-Discord-Music-Bot
+   git clone https://github.com/collinod12-ctrl/notBot
    ```
 2. Install NPM packages using Terminal inside of project folder
    ```sh
