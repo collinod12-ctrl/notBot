@@ -86,6 +86,7 @@ Note: due to recent changes to YouTube's innerTube, many Discord bots are not ab
 ## Features
 
 Currently the features included in this bot are as follows:
+
     `/play`: Plays a single song from SoundCloud.
     `/play playlist`: Plays a playlist from SoundCloud.
     `/play album`: Plays an album from SoundCloud.
